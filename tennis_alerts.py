@@ -18,6 +18,7 @@ PLAYERS = {
     "simakin": "Симакин",
     "kachmazov": "Качмазов",
     "lagutin": "Лагутин",
+    "belozertsev": "Белозерцев",
 }
 
 API_KEY = os.environ["TENNIS_API_KEY"]
